@@ -1,0 +1,21 @@
+
+/* TODO: css for the board */
+/* .board {} */
+
+.timer {
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    margin: auto;
+}
+
+.center {
+    margin: auto;
+    margin-top: 100px;    
+}
+
+
+/* TODO: create border */
+/* .border {} */
+
+/*  */
